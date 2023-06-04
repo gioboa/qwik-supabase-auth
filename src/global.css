@@ -24,6 +24,8 @@ html {
 }
 
 body {
-  padding: 0;
+  padding: 40px;
+  max-width: 50%;
+  margin: auto;
   line-height: inherit;
 }
