@@ -1,4 +1,4 @@
-# Qwik + Supabase + Auth
+# Qwik + Supabase Auth
 
 ![example](docs/example.png)
 

@@ -7,6 +7,6 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-	title: 'Qwik + Supabase + Auth',
-	meta: [{ name: 'description', content: 'Qwik + Supabase + Auth' }],
+	title: 'Qwik + Supabase Auth',
+	meta: [{ name: 'description', content: 'Qwik + Supabase Auth' }],
 };
