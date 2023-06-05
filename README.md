@@ -1,5 +1,7 @@
 # Qwik + Supabase + Auth
 
+![example](docs/example.png)
+
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
 - [Qwik GitHub](https://github.com/BuilderIO/qwik)
